@@ -16,8 +16,6 @@ yarn run dev
 # npm run dev
 ```
 
----
-
 ### Binaries
 
 Operating system-specific binaries are coming soon. macOS and ()Arch) Linux support are priorities personally, but pull requests for Windows-supported packages are welcome. 😊
